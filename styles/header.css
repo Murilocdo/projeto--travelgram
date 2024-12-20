@@ -16,6 +16,13 @@ header #profile {
 
 }
 
+#profile img {
+  width: 176px;
+  height: 176px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
 header #profile > div { 
   max-width: 384px;
 }
